@@ -5,7 +5,7 @@ This project analyzes customer data from UFood to optimize marketing campaigns a
 ## Project Structure
 - [data/](https://github.com/iamganeshg18/food_marketing_campaign_analysis/tree/main/data): Contains the dataset (u_food_marketing.csv) and metadata (metadata.png).
   
-- notebooks/: Includes the Jupyter notebook (food_marketing_analysis.ipynb) where the analysis is performed.
+- [notebooks/](https://github.com/iamganeshg18/food_marketing_campaign_analysis/blob/main/notebooks/food_marketing_analysis.ipynb): Includes the Jupyter notebook (food_marketing_analysis.ipynb) where the analysis is performed.
 
 ## Analysis and Findings
 The Jupyter Notebook includes:
